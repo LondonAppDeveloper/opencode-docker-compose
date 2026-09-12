@@ -7,6 +7,8 @@ services:
     volumes:
       - .:/workspace
       - opencode_data:/root/.local/share/opencode
+    profiles:
+      - tools
 
 volumes:
   opencode_data:
