@@ -15,4 +15,4 @@
 
 # Using OpenCode Securely
 
-Source code for our YouTube Tutorial: Using OpenCode Securely
+Source code for our YouTube Tutorial: [Using OpenCode Securely with Docker](https://youtu.be/SFIWT-yBWW0).
